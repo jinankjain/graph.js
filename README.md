@@ -11,6 +11,21 @@ Algorithms implemented so far
 * Johnson's for all pair shortest paths
 * Prim's and Kruskal's Algorithm for minimum spanning tree of Undirected complete graph
  
+To do Algorithms
+----------------
+
+* Kruskal
+* Max Flow
+* Centrality
+* A * Search
+* DAG shortest path
+* Connected Components
+
+How to contribute
+-----------------
+* Fork the repo and implement the algorithms in to do list.
+* If you find any bug just open an issue.
+* You can always contact me at @devenbhooshan on twitter. 
 
 How to use
 ----------
